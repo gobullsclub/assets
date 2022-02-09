@@ -1,0 +1,11 @@
+{
+    "name": "GoBullsX",
+    "symbol": "GBX",
+    "type": "GO20",
+    "decimals": 18,
+    "description": "GoBulls’s mission is to bring more adoption to the GoChain Network",
+    "website": "https://www.gobulls.club/",
+    "explorer": "https://explorer.gochain.io/addr/0xe64205fEed8A0c34C630245fd4a9103FeFb32421",
+    "status": "active",
+    "id": "0xe64205fEed8A0c34C630245fd4a9103FeFb32421"
+}
